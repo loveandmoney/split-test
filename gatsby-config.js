@@ -10,6 +10,7 @@ module.exports = {
     title: `Gatsby Tinderbox`,
     description: `Bare bones boilerplate for Gatsby`,
     author: `Lane Le Prevost-Smith`,
+    siteUrl: `lam-split-testing.netlify.app`
   },
   plugins: [
     `gatsby-transformer-sharp`,
